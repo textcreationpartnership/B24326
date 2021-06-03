@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Horrible news from York, Hull, and Newcastle concerning the Kings Majesties intent to take up arms against the Parliament : together with three votes of both Houses concerning the Kings standard betwixt York and Hull, May 20 : with His Majesties threatenings to imprison the Lord Fairfax, Sir Philip Stapleton, and the rest of the committee appointed by the Parliament to sit at York : and the joint votes of both Houses concerning the same : also the Lordes Stamfords report to the Parliament concerning the danger of Hull, and His Majesties resolution to take up armes : together with the Parliaments speciall command throughout all England and Wales.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24326</idno><idno type="EEBO-CITATION">12630058</idno>
+  <idno type="VID">197763</idno>
+  <idno type="EEBO-PROQUEST">2248588081</idno>
+  
+            <idno type="STC">Wing H2860</idno>
+            <idno type="OCLC">12630058</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24326)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197763)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E148, no 26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Horrible news from York, Hull, and Newcastle concerning the Kings Majesties intent to take up arms against the Parliament : together with three votes of both Houses concerning the Kings standard betwixt York and Hull, May 20 : with His Majesties threatenings to imprison the Lord Fairfax, Sir Philip Stapleton, and the rest of the committee appointed by the Parliament to sit at York : and the joint votes of both Houses concerning the same : also the Lordes Stamfords report to the Parliament concerning the danger of Hull, and His Majesties resolution to take up armes : together with the Parliaments speciall command throughout all England and Wales.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for Joh Greensmeth, An. Coe,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>May 24, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A letter sent from the inhabitants of Yorkshire to Hull" p. 3-7 is signed: The gentry and commonaly [sic] of Yorkshire.</note>
+                  <note>Imperfect: everything after the "three votes of both Houses" wanting.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="personal_name">Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648.</term>
+               <term type="personal_name">Stamford, Henry Grey, --  Earl of, 1599?-1673.</term>
+               <term type="personal_name">Stapleton, Philip, --  Sir, 1603-1647.</term>
+               <term type="geographic_name">North Yorkshire (England) --  History --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197763:1"/>
+            <p>Horrible News from YORKE: <hi>Hull,</hi> and <hi>Newcastle.</hi>
+            </p>
+            <p>Concerning the Kings Majesties intent to take up Arms against the PARLIAMENT.</p>
+            <p>Together w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th three votes of both Houses con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erning the Kings Standard betwixt York and Hull. May 20.</p>
+            <p>Hen. Elsing Cler. Parl. D. Com.</p>
+            <p>VVith His Majesties threatnings to imprison the Lord Fairfax, Sir Philip Stapleton, and the rest of the Com<g ref="char:EOLhyphen"/>mittee appointed by the Parliament to sit at York.</p>
+            <p>And the Joint votes of both Houses concerning the same.</p>
+            <p>Also the Lordes <hi>Stamfords</hi> Report to the Parliament concerning the danger of <hi>Hull,</hi> and His Majesties Resolution to take up Armes.</p>
+            <p>Together with the Parliaments speciall Command throughout all England and wales.</p>
+            <p>John Brown Cler. Parl.</p>
+            <p>
+               <hi>May</hi> 24 Printed for Ioh Greensmeth. An. <hi>Coe▪</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:197763:2"/>
+            <pb facs="tcp:197763:2"/>
+            <head>A Letter sent from the Inhabitants of Yorkshire to Hull.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>VVE received your Letter in which you seem'd to encourage us on to bee firm and resolute, which counsell of yours we received with thankful<g ref="char:EOLhyphen"/>nesse, and will make it apparent be<g ref="char:EOLhyphen"/>fore God and the world, that we can as boldly lay down our lives, for de<g ref="char:EOLhyphen"/>fence of the truth; as we dare pray to God for the peaceable enjoyment of the same, nor will we in expressing our loyaltie to the King, prove dis<g ref="char:EOLhyphen"/>loyall to the Kingdom: shall we make wounds on our own bosomes? shall we strive to make an union with our hearts, and make a separa<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:197763:3"/>with our hands, (God forbid;) why should you thinke us so worth<g ref="char:EOLhyphen"/>lesse, so deg nerate, as to advance our selves by your ruine, since the very Act ushers in ruine, and the end assu<g ref="char:EOLhyphen"/>red desolation and destruction: Is not his Majesties honour, the Parli<g ref="char:EOLhyphen"/>aments quiet, the Gospels flourishing e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tate, and the Kingdomes securitie as deare to us, as to your selves; are not we as largely interested into ei<g ref="char:EOLhyphen"/>ther: Surely yes, is it not our owne cause and quarrel? are not we bound by the same Protestation, to maine<g ref="char:EOLhyphen"/>taine his Majesties Honour, and to fulfill all his lawfull Commands, and to obey the Parliament, as the great Councell and skilfull Pilots to guide his Majestie and the State through this troubled Sea of distractions and distempers? Shall wee subscribe to our owne confusion? (God forbid:) Shall it be said, that we the Gentry and Commonalty of <hi>Yorkshire,</hi> shall
+<pb facs="tcp:197763:3"/>be t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e first that shall take up Armes against his Maj<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty and the Parlia<g ref="char:EOLhyphen"/>men<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? shall we be the first that shall begin a civill discord? shall we be the first that shall imbrue our hands in our Brethrens blood? shall the malignant partie so farre prevaile, those that seeke nothing but the de<g ref="char:EOLhyphen"/>struction of His Royall Majesty, the separation of his united Parliament, the ruine of the Gospel, and the con<g ref="char:EOLhyphen"/>fusion of this yet flourishing State,) shall they so farre bewitch our judg<g ref="char:EOLhyphen"/>ments, as to make us the chiefe A<g ref="char:EOLhyphen"/>gents in so great a mischiefe, (God forbid.) No deare Brethren, rest con<g ref="char:EOLhyphen"/>fident that we will expresse our selvs loyall Subjects to his Royall Majesty faithfull Subjects to the Honourable Parliament, and true Sonnes of Love to our native Kingdome; if our blood must be shed, it shall be for the de<g ref="char:EOLhyphen"/>fence of His Majesty and the Parlia<g ref="char:EOLhyphen"/>ment; if we must take up Armes, it
+<pb facs="tcp:197763:4"/>shall be against the Enemies of the Kingdomes, it shall be against the <hi>A<g ref="char:EOLhyphen"/>chans,</hi> the <hi>Absolons,</hi> and the wicked <hi>Humans</hi> of this Land, it shall bee a<g ref="char:EOLhyphen"/>gainst those Romish Conspirators, which hourely hatch mischiefe, and daily produce nought but treasonable effects, dangerous to the security of his Majesties Royall person, and the happy and Religious proceedings of this Renowned Parliament.</p>
+            <p>To which end, let us with an u<g ref="char:EOLhyphen"/>nite consent pray first to God, to give a right understanding to his Sa<g ref="char:EOLhyphen"/>cred Majesty, that (spight of their de<g ref="char:EOLhyphen"/>lusions) He may plainly discern how much the honourable Houses of Par<g ref="char:EOLhyphen"/>liament have desired and endeavored to save his Majesty from apparent danger, and to establish him in a Peaceable Throne.</p>
+            <p>Next, let our personall and actu<g ref="char:EOLhyphen"/>all endeavours, strive to perswade his Majesty to a neerer union, and a right
+<pb facs="tcp:197763:4"/>apprehension of His Parliament, so shall wee truely expresse our selves loyall Subjects to his Maj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty, faith<g ref="char:EOLhyphen"/>full Servants to the Parliament, and true Sonnes of Honour, worthy the Name of <hi>Englishmen.</hi>
+            </p>
+            <p>So doing (however wee may un<g ref="char:EOLhyphen"/>dergoe censure for the present,) time shall not waste many dayes ere our loyaltie shall finde a Royall Guerdon and we shalbe largely interested into his Majesties favour; These are our Intentions, and these we hope are a<g ref="char:EOLhyphen"/>greeable both to Gods Lawes and the Kingdomes Law, and God so pros<g ref="char:EOLhyphen"/>per us as our intents are loyall both to his Majesty, and to the Parliament. Thus leaving you to your continu<g ref="char:EOLhyphen"/>ance in your Resolution, We rest</p>
+            <closer>
+               <signed>Your Frionds and Servants, The Gentry and Commonaly of <hi>Yorkshire.</hi>
+               </signed>
+            </closer>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:197763:5"/>
+            <p>ON Friday last, the Lords fell into consideration of thema<g ref="char:EOLhyphen"/>lignant party of the King<g ref="char:EOLhyphen"/>dom, and of His Majesties intention to raise Arms against his Parliament, And having some, while debated theron, they at last unanimously Vo<g ref="char:EOLhyphen"/>ted.
+<list>
+                  <item>r. <hi>That it appears the King intends to levie war against the Parliament.</hi>
+                  </item>
+                  <item>2. <hi>That when soever the King maketh war upon the Parliament, it it the breach of the trust reposed upon him by the Peo<g ref="char:EOLhyphen"/>ple, and against his Oath, and tending to the desolution of his Government.</hi>
+                  </item>
+                  <item>3. <hi>That whosoever shall serve or as<g ref="char:EOLhyphen"/>sist the King in such War, are Traytors, and to be proceeded against as Traytors, according to the Statutes of</hi> 11. Rich. 2▪ <hi>and</hi> 1. Hen. 4.</item>
+               </list>
+            </p>
+            <p>His Majesty is resolved to set up his Standard between <hi>York</hi> and <hi>Hull,</hi> and so raise an Army against his Par<g ref="char:EOLhyphen"/>liament.</p>
+            <closer>
+               <signed>Hen. Elsing. Cler. Parl. de Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
